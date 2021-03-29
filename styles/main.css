@@ -1,0 +1,80 @@
+.heading-div{
+    background-image: url(../images/google-pic.jpg);
+    height: 90vh;
+    color: beige;
+}
+.heading-txt{
+    max-width: 55%;
+    top: 43%;
+    left: 26%;
+}
+.heading-btn-div{
+    top: 48%;
+    left: 32%;
+}
+.heading-btn-div input{
+    height: 38px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+.heading-btn-div button{
+    border-radius: 5px;
+}
+.bootstrap-stats{
+    background-color:darkgrey;
+}
+.bootstrap-stats div{
+    max-width: 21%;
+    left: 10%;
+}
+.column-design img{
+    margin-left: 116px;
+}
+.column-third-div{
+    max-width: 44%;
+}
+.portraits img{
+    border-radius: 50%;
+    width: 50%;
+}
+.portraits{
+    background-color:darkgrey;
+}
+.portraits div{
+    max-width: 25%;
+    left: 10%;
+}
+.heading-bottom-div{
+    background-image: url(../images/google-pic.jpg);
+    height: 25vh;
+    color: beige;
+}
+.heading-bottom-txt{
+    max-width: 55%;
+    top: 25%;
+    left: 39%;
+}
+.heading-bottom-btn-div{
+    top: 30%;
+    left: 32%;
+}
+.heading-bottom-btn-div input{
+    height: 38px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+.heading-bottom-btn-div button{
+    border-radius: 5px;
+}
+footer{
+    background-color:darkgrey;
+    height: 15vh;
+}
+.footer-div-one{
+    top: 20%;
+}
+.footer-div-last{
+    top: 20%;
+}
